@@ -1,6 +1,6 @@
 {
   "name": "@hivebeat/jsdom-setup",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extremely simple setup script for JSDOM to work with Enzyme",
   "main": "index.js",
   "scripts": {
