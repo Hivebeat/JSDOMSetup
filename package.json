@@ -14,6 +14,9 @@
     "jsdom",
     "enzyme"
   ],
+  "peerDependencies": {
+    "jsdom": "^9.1.0"
+  },
   "author": "Emil Hagbarth",
   "license": "ISC"
 }
