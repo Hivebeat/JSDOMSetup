@@ -1,0 +1,19 @@
+{
+  "name": "@hivebeat/jsdom-setup",
+  "version": "1.0.0",
+  "description": "Extremely simple setup script for JSDOM to work with Enzyme",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/hivebeat/JSDOMSetup"
+  },
+  "keywords": [
+    "jsdom",
+    "enzyme"
+  ],
+  "author": "Emil Hagbarth",
+  "license": "ISC"
+}
